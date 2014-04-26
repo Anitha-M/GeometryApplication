@@ -5,6 +5,7 @@ int main()
 	// stub for intro message and switch case statements
 	return 0;
 }
+// geometry application
 
 int calAreaOfSquare()
 {
